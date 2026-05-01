@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeeldev9" alt="jeeldev9" /></a> </p>
 
-- 🔭 I’m currently working on **TBC Application**
+- 🔭 I’m currently Looking for new Job role in Flutter.
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **react native**
 
 - 📫 How to reach me **jeelbhatti9@gmail.com**
 
