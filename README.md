@@ -23,14 +23,6 @@
 
 <br/><br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeldev9&show_icons=true&locale=en&layout=compact" alt="jeeldev9" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeeldev9&show_icons=true&locale=en" alt="jeeldev9" /></p>
-
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeeldev9&" alt="jeeldev9" /></p>
-
-
 <br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jeeldev9"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jeeldev9" /></a></p>
